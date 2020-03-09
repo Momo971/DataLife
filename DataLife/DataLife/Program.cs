@@ -43,6 +43,7 @@ namespace DataLife
             }
 			
 			System.Console.WriteLine("\npress any key continue...\n");
+
 			Console.ReadKey();
 
             if (!isQuit)
