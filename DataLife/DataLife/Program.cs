@@ -15,6 +15,7 @@ namespace DataLife
             System.Console.WriteLine("@project: DataLife\n");
             System.Console.WriteLine("@author: Momo971\n");
             System.Console.WriteLine("Input Your Commend:\n");
+            CommendDictionary.ShowAllCommend();
             ProcessCommend();
         }
 

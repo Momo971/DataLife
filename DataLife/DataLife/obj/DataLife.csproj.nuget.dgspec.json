@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xuhao/OneDrive/Projects/DataLife/DataLife/DataLife.csproj": {}
+    "C:\\Users\\xuzihao\\Source\\Repos\\DataLife\\DataLife\\DataLife\\DataLife.csproj": {}
   },
   "projects": {
-    "/Users/xuhao/OneDrive/Projects/DataLife/DataLife/DataLife.csproj": {
+    "C:\\Users\\xuzihao\\Source\\Repos\\DataLife\\DataLife\\DataLife\\DataLife.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xuhao/OneDrive/Projects/DataLife/DataLife/DataLife.csproj",
+        "projectUniqueName": "C:\\Users\\xuzihao\\Source\\Repos\\DataLife\\DataLife\\DataLife\\DataLife.csproj",
         "projectName": "DataLife",
-        "projectPath": "/Users/xuhao/OneDrive/Projects/DataLife/DataLife/DataLife.csproj",
-        "packagesPath": "/Users/xuhao/.nuget/packages/",
-        "outputPath": "/Users/xuhao/OneDrive/Projects/DataLife/DataLife/obj/",
+        "projectPath": "C:\\Users\\xuzihao\\Source\\Repos\\DataLife\\DataLife\\DataLife\\DataLife.csproj",
+        "packagesPath": "C:\\Users\\xuzihao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xuzihao\\Source\\Repos\\DataLife\\DataLife\\DataLife\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/xuhao/.config/NuGet/NuGet.Config"
+          "C:\\Users\\xuzihao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,9 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": [
-            "Microsoft.NETCore.App"
-          ]
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

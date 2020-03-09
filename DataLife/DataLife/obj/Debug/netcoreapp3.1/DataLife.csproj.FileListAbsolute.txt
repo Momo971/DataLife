@@ -22,3 +22,12 @@ C:/Users/xuzihao/OneDrive/Projects/DataLife/DataLife/obj/Debug/netcoreapp3.1/Dat
 /Users/xuhao/OneDrive/Projects/DataLife/DataLife/bin/Debug/netcoreapp3.1/DataLife.pdb
 C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\obj\Debug\netcoreapp3.1\DataLife.dll
 C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\obj\Debug\netcoreapp3.1\DataLife.pdb
+C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\bin\Debug\netcoreapp3.1\DataLife.exe
+C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\bin\Debug\netcoreapp3.1\DataLife.deps.json
+C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\bin\Debug\netcoreapp3.1\DataLife.runtimeconfig.json
+C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\bin\Debug\netcoreapp3.1\DataLife.runtimeconfig.dev.json
+C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\bin\Debug\netcoreapp3.1\DataLife.dll
+C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\bin\Debug\netcoreapp3.1\DataLife.pdb
+C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\obj\Debug\netcoreapp3.1\DataLife.csprojAssemblyReference.cache
+C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\obj\Debug\netcoreapp3.1\DataLife.AssemblyInfoInputs.cache
+C:\Users\xuzihao\Source\Repos\DataLife\DataLife\DataLife\obj\Debug\netcoreapp3.1\DataLife.AssemblyInfo.cs
